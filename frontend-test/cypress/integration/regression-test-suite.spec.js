@@ -19,17 +19,6 @@ describe('Regression test suite', function(){
         cy.get(':nth-child(5) > select').select('1')
         cy.get('.blue').click()
         
-
-       
-
-        
-
-
-
-
-
-
-
     })
 
 })
